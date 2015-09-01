@@ -1,0 +1,12 @@
+Marketo settings
+
+1. Field Create
+Create new field on Marketo.
+EX Name : clientID / txt
+
+2. form setting
+Create New form.
+with "clientID" field by Hide field.
+
+3. Form javascript customize
+Reference : marketo_form.js
